@@ -23,9 +23,9 @@
 <p align="left">- Fundamentals Of Networking</p>
 <p align="left">- C++</p>
 <p align="left">- Python</p>
-- 💬 Ask me about **Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!**
+- 💬 Ask me about : Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!
 
-- 📫 How to reach me **mahmoudeldeba8@gmail.com**
+-📫 How to reach me **mahmoudeldeba8@gmail.com**
 
 - ⚡ Fun fact **Did you know that the word "JavaScript" has nothing to do with the programming language "Java"? It was actually named to ride the popularity wave of Java back in the 1990s. JavaScript was originally called "Mocha" and then "LiveScript" before settling on its current name. Despite the misleading association, JavaScript has become a powerhouse in web development, driving interactivity on countless websites.**
 
