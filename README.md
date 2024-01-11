@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudeldeba34" alt="mahmoudeldeba34" /></a> </p>
 
+
 - 💬 Ask me about **Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!**
 
 - 📫 How to reach me **mahmoudeldeba8@gmail.com**
