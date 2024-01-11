@@ -23,7 +23,7 @@
 <p align="left">- Fundamentals Of Networking</p>
 <p align="left">- C++</p>
 <p align="left">- Python</p>
-- 💬 Ask me<p align="left">Html</p> about **Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!**
+- 💬 Ask me about **Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!**
 
 - 📫 How to reach me **mahmoudeldeba8@gmail.com**
 
