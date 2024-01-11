@@ -5,8 +5,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudeldeba34" alt="mahmoudeldeba34" /></a> </p>
 
-
-- 💬 Ask me about **Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!**
+<h3 align="left">Skills:</h3>
+<p align="left">- Html</p>
+<p align="left">- CSS</p>
+<p align="left">- JavaScript</p>
+<p align="left">- Typescript</p>
+<p align="left">- Angular</p>
+<p align="left">- Jequry</p>
+<p align="left">- Tailwind</p>
+<p align="left">- Bootstrap</p>
+<p align="left">- Agax</p>
+<p align="left">- Regx</p>
+<p align="left">- OOP</p>
+<p align="left">- Data Structure & Algorithms</p>
+<p align="left">- System Analysis & Design</p>
+<p align="left">- Fundamentals Of Databases</p>
+<p align="left">- Fundamentals Of Networking</p>
+<p align="left">- C++</p>
+<p align="left">- Python</p>
+- 💬 Ask me<p align="left">Html</p> about **Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!**
 
 - 📫 How to reach me **mahmoudeldeba8@gmail.com**
 
