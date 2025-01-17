@@ -21,6 +21,7 @@
 <p align="left">- System Analysis & Design</p>
 <p align="left">- Fundamentals Of Databases</p>
 <p align="left">- Fundamentals Of Networking</p>
+<p align="left">- C</p>
 <p align="left">- C++</p>
 <p align="left">- Python</p>
 - 💬 Ask me about : Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!
