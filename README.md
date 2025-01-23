@@ -24,11 +24,17 @@
 <p align="left">- C</p>
 <p align="left">- C++</p>
 <p align="left">- Python</p>
-- 💬 Ask me about : Angular, web development best practices, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!
+<p align="left">- CRM (Customer Relationship Management)</p>
 
--📫 How to reach me **mahmoudeldeba8@gmail.com**
+- 💬 Ask me about : Angular, web development best practices, CRM, or any computer science-related topic, and let's dive into a discussion fueled by curiosity and knowledge-sharing!
+
+- 📫 How to reach me **mahmoudeldeba8@gmail.com**
 
 - ⚡ Fun fact **Did you know that the word "JavaScript" has nothing to do with the programming language "Java"? It was actually named to ride the popularity wave of Java back in the 1990s. JavaScript was originally called "Mocha" and then "LiveScript" before settling on its current name. Despite the misleading association, JavaScript has become a powerhouse in web development, driving interactivity on countless websites.**
+
+<h3 align="left">Education & Professional Development:</h3>
+<p align="left">- Studied at the Information Technology Institute (ITI) in the Professional Development track, gaining hands-on experience in software development and industry best practices.</p>
+<p align="left">- Explored CRM systems, understanding their role in enhancing customer relationships and optimizing business processes.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,4 +49,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudeldeba34&show_icons=true&locale=en" alt="mahmoudeldeba34" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudeldeba34&" alt="mahmoudeldeba34" /></p>
-
