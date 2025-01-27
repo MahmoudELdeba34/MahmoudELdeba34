@@ -66,10 +66,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudeldeba34&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudeldeba34&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
+---
 
+### 🛠️ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudeldeba34&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -99,7 +105,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudeldeba34&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
----
-
-
