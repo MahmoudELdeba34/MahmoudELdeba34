@@ -69,9 +69,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudeldeba34&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudeldeba34&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ---
 
