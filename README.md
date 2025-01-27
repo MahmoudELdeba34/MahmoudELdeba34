@@ -66,7 +66,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudeldeba34&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudeldeba34&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  
 </p>
 
 ---
