@@ -97,7 +97,7 @@ An Android app that detects skin cancer by analyzing pictures taken by the user.
 - Kotlin
 - Image Recognition
 
-> [Link to Project](https://github.com/mahmoudeldeba34/Skin-Scan-Cancer-App)
+> [Link to Project](https://github.com/MahmoudELdeba34/My-Graduation-project.git)
 
 ---
 
