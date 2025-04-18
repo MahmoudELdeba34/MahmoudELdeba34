@@ -1,14 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mahmoud+Ahmed;Front-End+Engineer+🧑‍💻;Angular+Specialist+🅰️;ITI+Professional+Development+Alumni+🎓;CRM+Enthusiast+📊" alt="Typing Animation" />
-</h1>
+# Mahmoud Ahmed's Developer Portfolio
 
-<h3 align="center">
-  A passionate Front-End Engineer with expertise in Angular, CRM systems, and professional development. I transform ideas into stunning, functional web applications while staying at the forefront of cutting-edge technologies.
-</h3>
+Welcome to my GitHub profile! I'm Mahmoud Ahmed, a passionate Front-End Engineer specializing in Angular, CRM systems, and professional development. Here you'll find a collection of my personal and collaborative projects, showcasing my skills in web development, CRM systems, and cloud technologies.
 
----
-
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 **Education**: Graduated from the Faculty of Computer Science and studied at **ITI (Information Technology Institute)** in the **Professional Development** track.
 - 💼 **Experience**: Skilled in **Angular**, **CRM systems**, **.NET**, and **web development best practices**.
@@ -17,69 +11,90 @@
 - 📫 **Reach Me**: [mahmoudeldeba8@gmail.com](mailto:mahmoudeldeba8@gmail.com)
 - ⚡ **Fun Fact**: JavaScript was originally called "Mocha" and then "LiveScript" before settling on its current name. It has nothing to do with Java!
 
----
+## 🔧 Projects
 
-### 🛠️ Skills
+### 1. **CRM Contact Manager (Angular)**
+A fully functional Angular app to manage customer contacts. This project demonstrates modern Angular practices, including JWT authentication, reactive forms, and routing guards.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/CRM-FF6F61?style=for-the-badge&logo=salesforce&logoColor=white" alt="CRM" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-</p>
+#### Features:
+- JWT Authentication
+- Reactive Forms for data entry
+- Angular Routing & Guards
+- Global Service for CRUD Operations
+- Fully Responsive using Bootstrap
+
+#### Tech Stack:
+- Angular 17
+- Bootstrap 5
+- TypeScript
+
+> Ready to integrate with any RESTful API (e.g., .NET, Node.js)
 
 ---
 
-### 🎓 ITI Professional Development Track
+### 2. **Node.js API for Contacts**
+A simple RESTful API for managing contacts built using Node.js and Express.js. Perfect for use with any front-end framework (Angular, React, Vue).
 
-#### Program Highlights
-- **Delivery Approach**: 20% Self-paced | 40% Online | 40% Guided Practices
-- **Project-Based Focus**: Hands-on projects to enhance practical skills.
-- **Mentorship**: Dedicated mentors throughout the learning journey.
+#### Features:
+- Create, Read, and Delete contacts
+- In-memory storage for simplicity
+- Easy to connect with Angular/React front-end
 
-#### Key Certifications
-- **Microsoft Power BI**: Analyzing and Visualizing Data.
-- **Microsoft Dynamics CRM**: Tailoring CRM solutions for businesses.
-- **Microsoft Azure**: Cloud application development.
-- **.NET Framework**: Building robust web and desktop applications.
-
-#### Graduates Job Profiles
-- **Microsoft .Net Full Stack Web Developer**
-- **Microsoft Cloud Application Developer**
-- **Microsoft CRM Dynamics Developer**
-- **Business Intelligence Developer**
-- **Frontend Developer**
+#### Tech Stack:
+- Node.js
+- Express.js
+- JavaScript
 
 ---
 
-### 📊 GitHub Stats
+### 3. **Power BI Sales Dashboard**
+An interactive Power BI dashboard for analyzing sales data, product performance, and region-wise comparison.
+
+#### Features:
+- Monthly sales trends
+- Top-performing products
+- Region-wise comparison
+
+#### Tech Stack:
+- Power BI
+- Excel Dataset for analysis
+
+---
+
+### 4. **.NET Web API for Student Management**
+A robust .NET Web API for managing student data using Entity Framework Core. This project demonstrates CRUD operations with SQL Server and integrates seamlessly with front-end applications.
+
+#### Features:
+- Full CRUD Operations for Student Management
+- Entity Framework Core Integration
+- API designed for integration with Angular/React front-end
+
+#### Tech Stack:
+- .NET 6
+- Entity Framework Core
+- SQL Server
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages**: HTML5, CSS3, JavaScript, TypeScript, Python, C++
+- **Frameworks/Libraries**: Angular, Bootstrap, Tailwind CSS, .NET, React
+- **Databases**: SQL Server, MySQL
+- **Cloud/Tools**: Microsoft Azure, Power BI, Git, Figma
+- **CRM**: Salesforce, Microsoft Dynamics 365
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudeldeba34&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  
 </p>
 
 ---
 
-### 🛠️ Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudeldeba34&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mahmoud-ahmed-986276196" target="_blank">
@@ -92,7 +107,7 @@
 
 ---
 
-### 🎨 Tools & Technologies
+## 🎨 Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,dotnet,bootstrap,tailwind,git,figma,linux,py,cpp,azure,powerbi,sql" alt="Tools & Technologies" />
