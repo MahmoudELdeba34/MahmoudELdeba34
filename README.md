@@ -1,6 +1,12 @@
-# Mahmoud Ahmed's Developer Portfolio
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Mahmoud+Ahmed;Front-End+Engineer+🧑‍💻;Angular+Specialist+🅰️;ITI+Professional+Development+Alumni+🎓;CRM+Enthusiast+📊" alt="Typing Animation" />
+</h1>
 
-Welcome to my GitHub profile! I'm Mahmoud Ahmed, a passionate Front-End Engineer specializing in Angular, CRM systems, and professional development. Here you'll find a collection of my personal and collaborative projects, showcasing my skills in web development, CRM systems, and cloud technologies.
+<h3 align="center">
+  A passionate Front-End Engineer with expertise in Angular, CRM systems, and professional development. I transform ideas into stunning, functional web applications while staying at the forefront of cutting-edge technologies.
+</h3>
+
+---
 
 ## 🚀 About Me
 
@@ -10,6 +16,8 @@ Welcome to my GitHub profile! I'm Mahmoud Ahmed, a passionate Front-End Engineer
 - 💬 **Ask Me About**: Angular, CRM, .NET, web development, or anything tech-related!
 - 📫 **Reach Me**: [mahmoudeldeba8@gmail.com](mailto:mahmoudeldeba8@gmail.com)
 - ⚡ **Fun Fact**: JavaScript was originally called "Mocha" and then "LiveScript" before settling on its current name. It has nothing to do with Java!
+
+---
 
 ## 🔧 Projects
 
@@ -73,6 +81,23 @@ A robust .NET Web API for managing student data using Entity Framework Core. Thi
 - .NET 6
 - Entity Framework Core
 - SQL Server
+
+---
+
+### 5. **Skin Scan Cancer App (Android)**
+An Android app that detects skin cancer by analyzing pictures taken by the user. The app diagnoses the condition and suggests a doctor based on the result.
+
+#### Features:
+- Detects skin cancer from images
+- Suggests a doctor for further consultation
+- Real-time analysis and feedback
+
+#### Tech Stack:
+- Android
+- Kotlin
+- Image Recognition
+
+> [Link to Project](https://github.com/mahmoudeldeba34/Skin-Scan-Cancer-App)
 
 ---
 
