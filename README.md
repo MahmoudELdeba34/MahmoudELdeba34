@@ -448,6 +448,6 @@ const currentLearning = {
 
 <div align="center">
   
-**© 2025 Mahmoud Ahmed** | Built with 💙 and ☕ | Last Updated: October 2024
+**© 2025 Mahmoud Ahmed** | Built with 💙 and ☕ | Last Updated: October 2025
 
 </div>
