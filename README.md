@@ -22,6 +22,10 @@ I work across the stack. Interfaces in **Angular (v12–19)** and **React**. Ser
 
 Native Arabic speaker. I design **RTL** interfaces as part of the product, and I work comfortably in distributed remote teams.
 
+| **3 years** | **1,000+** | **25%** | **8** |
+|---|---|---|---|
+| Shipping production software | Concurrent users held at speed | Faster average page load | Systems across the stack |
+
 ---
 
 ## Experience
@@ -109,96 +113,140 @@ Every name below is in the practice. Angular is one interface tool.
 
 ## Systems
 
-### ProTrack V2
-
-Multi-tenant HR, payroll, and project management. Attendance, leave, and tasks, with an embedded Grok assistant and RBAC for Super Admin, Tenant Admin, Manager, and Employee. Project lead and sole frontend developer.
-
-`ASP.NET Core` · `Angular 19` · `SignalR` · `SQL Server` · `Grok`
-
-[Demo](https://v2.pro-track.cloud/) · [Code](https://github.com/Hrigo-Project/ProTrack-V2)
-
-### LifeCare
-
-Multi-branch medical center OS. EMR, scheduling, double-entry billing, HR, CRM, and a patient portal. 14 modules, 70+ REST endpoints, 65 automated tests, JWT access and refresh rotation, 13 RBAC roles, and AI through LLM APIs and RAG.
-
-`Node.js` · `Express` · `MongoDB` · `Angular 19` · `JWT` · `RAG`
-
-[Demo](https://medical-care-n4in-sigma.vercel.app/) · [Code](https://github.com/MahmoudELdeba34/Medical-Care)
-
-### Codevera
-
-AI programming platform. The tutor reads student code and guides toward the solution. 1v1 coding battles, live chat with voice notes, XP and leaderboards, anti-cheat exams, Arabic RTL, and dark mode.
-
-`Groq` · `Socket.io` · `Node.js` · `Angular` · `MongoDB` · `Monaco`
-
-[Demo](https://codevera-tech.vercel.app) · [Code](https://github.com/MahmoudELdeba34/Codevara)
-
-### MAF Admin
-
-Admin console for an automotive marketplace: sales, spare parts, and service booking. Clean Architecture, JWT interceptors, route guards, SSR, and real-time notifications. Team lead.
-
-`ASP.NET Core` · `Angular 19` · `SignalR` · `SQL Server` · `SCSS`
-
-[Demo](https://maf-admindashboard.runasp.net/login?returnUrl=%2Fdashboard) · [Code](https://github.com/Hrigo-Project/Maf-Admin-Dashboard)
-
-### Alpine
-
-Luxury watch store. Filtering, a strap and package configurator, cash on delivery, and card checkout with a 3D Secure OTP step.
-
-`Node.js` · `Express` · `Angular 19 Signals` · `SQLite` · `Vercel`
-
-[Demo](https://alpine-ui-beta.vercel.app/) · [Code](https://github.com/MahmoudELdeba34/Apin-)
-
-### Inventory Management
-
-Stock, supplier, and purchase-order workflows, with automated approval flows.
-
-`Dynamics 365` · `Power Automate` · `ASP.NET Core` · `Angular`
-
-Private build.
-
-### MEAN Commerce
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>ProTrack V2</h3>
+Multi-tenant HR, payroll, and projects. A Grok assistant sits inside the workflow, with a different surface for Super Admin, Tenant Admin, Manager, and Employee. Project lead and sole frontend owner.
+<br/><br/>
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img alt="Angular 19" src="https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img alt="Grok" src="https://img.shields.io/badge/Grok-111111?style=flat-square&logo=x&logoColor=white"/>
+<br/><br/>
+<a href="https://v2.pro-track.cloud/"><img alt="Live" src="https://img.shields.io/badge/Live-1FA87A?style=flat-square"/></a>
+<a href="https://github.com/Hrigo-Project/ProTrack-V2"><img alt="Code" src="https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>LifeCare</h3>
+Multi-branch medical center OS. EMR, scheduling, double-entry billing, HR, CRM, and a patient portal. 14 modules, 70+ REST endpoints, 65 tests, 13 roles, JWT rotation, and RAG.
+<br/><br/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+<img alt="Angular 19" src="https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img alt="RAG" src="https://img.shields.io/badge/RAG-8E75B2?style=flat-square"/>
+<br/><br/>
+<a href="https://medical-care-n4in-sigma.vercel.app/"><img alt="Live" src="https://img.shields.io/badge/Live-1FA87A?style=flat-square"/></a>
+<a href="https://github.com/MahmoudELdeba34/Medical-Care"><img alt="Code" src="https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Codevera</h3>
+The tutor reads a student's code and guides them toward the fix. 1v1 battles, live chat with voice notes, XP, anti-cheat exams, Arabic RTL, and dark mode.
+<br/><br/>
+<img alt="Groq" src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+<img alt="Monaco" src="https://img.shields.io/badge/Monaco-1E1E1E?style=flat-square"/>
+<br/><br/>
+<a href="https://codevera-tech.vercel.app"><img alt="Live" src="https://img.shields.io/badge/Live-1FA87A?style=flat-square"/></a>
+<a href="https://github.com/MahmoudELdeba34/Codevara"><img alt="Code" src="https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>MAF Admin</h3>
+Automotive marketplace console: sales, spare parts, and service booking. Clean Architecture, JWT interceptors, route guards, SSR, and SignalR notifications. Team lead.
+<br/><br/>
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img alt="Angular 19" src="https://img.shields.io/badge/Angular%2019-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img alt="SignalR" src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+<br/><br/>
+<a href="https://maf-admindashboard.runasp.net/login?returnUrl=%2Fdashboard"><img alt="Live" src="https://img.shields.io/badge/Live-1FA87A?style=flat-square"/></a>
+<a href="https://github.com/Hrigo-Project/Maf-Admin-Dashboard"><img alt="Code" src="https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Alpine</h3>
+Luxury watch store. Catalog filters, a strap and package configurator, cash on delivery, and card checkout with a 3D Secure OTP step.
+<br/><br/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white"/>
+<img alt="Angular 19 Signals" src="https://img.shields.io/badge/Angular%2019%20Signals-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<br/><br/>
+<a href="https://alpine-ui-beta.vercel.app/"><img alt="Live" src="https://img.shields.io/badge/Live-1FA87A?style=flat-square"/></a>
+<a href="https://github.com/MahmoudELdeba34/Apin-"><img alt="Code" src="https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>Inventory Management</h3>
+Stock, suppliers, and purchase orders on Dynamics 365, with Power Automate approval flows.
+<br/><br/>
+<img alt="Dynamics 365" src="https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white"/>
+<img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
+<img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<br/><br/>
+<img alt="Private build" src="https://img.shields.io/badge/Private%20build-555555?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>MEAN Commerce</h3>
 Online store with JWT auth, a product catalog, a cart, and Stripe checkout.
-
-`MongoDB` · `Express` · `Angular` · `Node.js` · `Stripe`
-
-Private build.
-
-### Skin Cancer Detection
-
-Graduation project. An Android app classifies skin-lesion images with a CNN, backed by a .NET Core API.
-
-`Kotlin` · `TensorFlow Lite` · `.NET Core`
-
-[Code](https://github.com/MahmoudELdeba34/My-Graduation-project)
+<br/><br/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
+<img alt="Express" src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<br/><br/>
+<img alt="Private build" src="https://img.shields.io/badge/Private%20build-555555?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
+<h3>Skin Cancer Detection</h3>
+Graduation project. An Android app classifies skin-lesion images with a CNN on TensorFlow Lite, backed by a .NET Core API.
+<br/><br/>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img alt="TensorFlow Lite" src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/MahmoudELdeba34/My-Graduation-project"><img alt="Code" src="https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Education
 
-- **ITI** (Information Technology Institute), Professional Development Program, Oct 2024 – Aug 2025. Tracks: MEAN Stack, .NET (ASP.NET Core Web API, EF Core, Clean Architecture), CRM (Dynamics 365), Power Platform.
-- **B.Sc. Computer Science**, El-Obour Higher Institute, 2019 – 2023. Very Good, ranked 2nd in the cohort.
-- **HCIA-AI**, Huawei.
-
-**Currently learning:** RAG and vector search in applied projects, system design, cloud architecture.
-
----
-
-## GitHub
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoudeldeba34&show_icons=true&hide_border=true&bg_color=0d1117&title_color=1FA87A&icon_color=1FA87A&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudeldeba34&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=1FA87A&text_color=c9d1d9"/>
-</div>
+| | |
+|---|---|
+| **ITI** | Professional development, Oct 2024 – Aug 2025. MEAN Stack, .NET (ASP.NET Core, EF Core, Clean Architecture), Dynamics 365, and Power Platform. |
+| **B.Sc. Computer Science** | El-Obour Higher Institute, 2019 – 2023. Very Good, ranked 2nd in the cohort. |
+| **HCIA-AI** | Huawei certification. |
+| **Now** | RAG and vector search, system design, and cloud architecture. |
 
 ---
 
 ## Contact
 
-Open to **full-time roles, freelance projects, and remote collaboration**.
+<p align="center">
+<a href="https://github.com/mahmoudeldeba34"><img alt="Followers" src="https://img.shields.io/github/followers/mahmoudeldeba34?style=for-the-badge&logo=github&label=Followers&color=0e3b30&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoud-ahmed-986276196"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mahmoudeldeba8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mahmoudeldeba8%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://myprotofolio-iota.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-[LinkedIn](https://linkedin.com/in/mahmoud-ahmed-986276196) · [Portfolio](https://myprotofolio-iota.vercel.app/) · [mahmoudeldeba8@gmail.com](mailto:mahmoudeldeba8@gmail.com)
+<p align="center">Open to <strong>full-time roles, freelance projects, and remote collaboration</strong>.</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0e3b30&height=90&section=footer" width="100%"/>
