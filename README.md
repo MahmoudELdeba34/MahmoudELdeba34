@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0e3b30&height=190&section=header&text=Mahmoud%20Ahmed&fontSize=54&fontColor=fff&fontAlignY=34&desc=Software%20across%20the%20stack&descAlignY=56&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=1FA87A&center=true&vCenter=true&width=820&height=50&lines=Interfaces+%C2%B7+Angular+%C2%B7+React+%C2%B7+TypeScript;Services+%C2%B7+ASP.NET+Core+%C2%B7+Node.js+%C2%B7+SignalR;Data+%C2%B7+SQL+Server+%C2%B7+MongoDB+%C2%B7+SQLite;AI+%C2%B7+Grok+%C2%B7+Groq+%C2%B7+Gemini;Platforms+%C2%B7+Dynamics+365+%C2%B7+Power+Platform+%C2%B7+Shopify;Mobile+%C2%B7+Kotlin+%C2%B7+TensorFlow+Lite" alt="Stack across every layer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=1FA87A&center=true&vCenter=true&width=820&height=50&lines=Interfaces+%C2%B7+Angular+%C2%B7+React+%C2%B7+TypeScript;Services+%C2%B7+ASP.NET+Core+%C2%B7+Node.js+%C2%B7+SignalR;Data+%C2%B7+SQL+Server+%C2%B7+MongoDB+%C2%B7+SQLite;AI+%C2%B7+Grok+%C2%B7+Groq+%C2%B7+Gemini;Platforms+%C2%B7+Dynamics+365+%C2%B7+Power+Platform+%C2%B7+Shopify;Graduation+%C2%B7+Android+%C2%B7+Django+%C2%B7+Keras" alt="Stack across every layer"/>
 
 📍 Cairo, Egypt 🇪🇬 &nbsp;|&nbsp; 🟢 Open to work
 
@@ -18,7 +18,7 @@
 
 Full-stack engineer with **3 years** shipping software from the screen through the API, the data, and delivery. Platforms in production serve **1,000+ concurrent users**.
 
-I work across the stack. Interfaces in **Angular (v12–19)** and **React**. Services in **ASP.NET Core** and **Node.js**. Data in **SQL Server**, **MongoDB**, and **SQLite**. Production AI on **Grok**, **Groq**, and **Gemini**, including a conversational assistant with secure key handling, prompt design, and context-aware streaming. Enterprise work on **Dynamics 365**, **Power Platform**, and **Shopify**. Mobile and on-device models with **Kotlin** and **TensorFlow Lite**.
+I work across the stack. Interfaces in **Angular (v12–19)** and **React**. Services in **ASP.NET Core** and **Node.js**. Data in **SQL Server**, **MongoDB**, and **SQLite**. Production AI on **Grok**, **Groq**, and **Gemini**, including a conversational assistant with secure key handling, prompt design, and context-aware streaming. Enterprise work on **Dynamics 365**, **Power Platform**, and **Shopify**. Graduation work on **Android**, **Django REST**, and a **Keras** model that classifies a skin lesion as benign or malignant.
 
 Native Arabic speaker. I design **RTL** interfaces as part of the product, and I work comfortably in distributed remote teams.
 
@@ -102,10 +102,13 @@ Every name below is in the practice. Angular is one interface tool.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white)
 
-**Mobile and models**
+**Graduation model**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 **Architecture:** Clean Architecture · SOLID · Component-based design · Multi-tenancy · RBAC · Lazy loading and performance optimization
 
@@ -212,12 +215,24 @@ Online store with JWT auth, a product catalog, a cart, and Stripe checkout.
 <img alt="Private build" src="https://img.shields.io/badge/Private%20build-555555?style=flat-square"/>
 </td>
 <td width="50%" valign="top">
-<h3>Skin Cancer Detection</h3>
-Graduation project. An Android app classifies skin-lesion images with a CNN on TensorFlow Lite, backed by a .NET Core API.
+<h3>Skin scan</h3>
+Classification of Skin Cancer Using Machine Learning. I led CS-07, and the project was graded Excellent.
 <br/><br/>
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img alt="TensorFlow Lite" src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+A photo goes to a Keras CNN and comes back benign or malignant. A malignant result suggests a nearby doctor. If travel is not possible, the patient books a video consult and pays with Vodafone Cash, InstaPay, or another method.
+<br/><br/>
+<img alt="Team lead" src="https://img.shields.io/badge/Team_lead-1FA87A?style=flat-square"/>
+<img alt="Excellent" src="https://img.shields.io/badge/Excellent-0e3b30?style=flat-square"/>
+<img alt="84% accuracy" src="https://img.shields.io/badge/84%25_accuracy-1FA87A?style=flat-square"/>
+<img alt="83% precision" src="https://img.shields.io/badge/83%25_precision-0e3b30?style=flat-square"/>
+<img alt="82% recall" src="https://img.shields.io/badge/82%25_recall-0e3b30?style=flat-square"/>
+<br/><br/>
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img alt="Django REST" src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<br/><br/>
+2,637 training images · 660 test images · two classes. With Eslam Mohamed and Mohamed Hassan. El-Obour, 2022–2023.
 <br/><br/>
 <a href="https://github.com/MahmoudELdeba34/My-Graduation-project"><img alt="Code" src="https://img.shields.io/badge/Code-161b22?style=flat-square&logo=github&logoColor=white"/></a>
 </td>
@@ -232,6 +247,7 @@ Graduation project. An Android app classifies skin-lesion images with a CNN on T
 |---|---|
 | **ITI** | Professional development, Oct 2024 – Aug 2025. MEAN Stack, .NET (ASP.NET Core, EF Core, Clean Architecture), Dynamics 365, and Power Platform. |
 | **B.Sc. Computer Science** | El-Obour Higher Institute, 2019 – 2023. Very Good, ranked 2nd in the cohort. |
+| **Graduation project** | Classification of Skin Cancer Using Machine Learning, 2022–2023. Team lead of CS-07. Graded Excellent. |
 | **HCIA-AI** | Huawei certification. |
 | **Now** | RAG and vector search, system design, and cloud architecture. |
 
